@@ -4,7 +4,7 @@
 		"leaderName": "Рюрик",
 		"adjective": ["славянский"],
 		"startBias": ["tundra"],
-		"preferredVictoryType": "Military",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Рюрик, готов ли ты возглавить племя славянское?",
 		"startIntroPart2": "Ну, так давай же!",
